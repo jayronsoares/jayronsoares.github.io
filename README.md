@@ -21,12 +21,12 @@ Engenheiro de dados com mais 10 anos de experiência interpretando e analisando 
 ### 2. Análise de dados públicos.
 - [EDA](https://github.com/jayronsoares/dados_publicos/tree/main)
 
-## 3. Painel da Rede de Planejamento SEPLAG - RJ
+### 3. Painel da Rede de Planejamento SEPLAG - RJ
 - [Data Visualization](https://www.rededeplanejamento.com.br/)
   - [Planejamento em Dados](https://app.powerbi.com/view?r=eyJrIjoiNGFiMDYwOTYtMGZmMS00MDIyLWEyOWUtZGIxN2M3ZDZlZDZkIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   - **Para acessar o painel basta clicar em PLANEJAMENTO EM DADOS**
   
-## 4. Sistema de Inteligência artificial para UTI hospitalar (Protótipo)
+### 4. Sistema de Inteligência artificial para UTI hospitalar (Protótipo)
 - [Machine Learning](https://icu.gayaanalytics.com)
 
 - **Credenciais para acesso:**
