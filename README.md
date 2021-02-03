@@ -6,12 +6,12 @@ Engenheiro de dados com mais 10 anos de experiência interpretando e analisando 
 2. Modelagem de dados (Relacional, Dimensional, & Não-Estruturado)
 3. Banco de Dados (Oracle, MS SQL Server, MySQL, Postgres)
 4. Linguagem SQL
-5. Performance e Tuning de consultas
+5. Qualidade e Gestão de Dados
 5. Python: Numpy, Pandas, Scikit-Learn, Statsmodels, Plotly, Matplotlib, Seaborn;
 6. Engenharia de Dados
-7. Análise de problemas, cálculos estatísticos e análise e criação de insights
+7. DAX Power BI
 8. Visualização de Dados & Data Storytelling
-9. DAX Power BI
+
 
 ## Alguns trabalhos na área de analytics:
 
