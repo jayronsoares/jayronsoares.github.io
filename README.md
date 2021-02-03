@@ -1,7 +1,7 @@
 ## Portifólio de Análise de Dados
 Engenheiro de dados com mais 10 anos de experiência interpretando e analisando dados, impulsionando exitosas soluções de negócios. Sólidos conhecimentos em sistemas de banco de dados, análise estatística, e visualização de dados. Excelente compreensão das operações de negócios e ferramentas para gestão e qualidade dos dados.
 
-## Proficiência nas seguintes tecnologias:
+### Proficiência nas seguintes tecnologias:
 1. Engenharia de Requisitos de Negócios
 2. Modelagem de dados (Relacional, Dimensional, & Não-Estruturado)
 3. Banco de Dados (Oracle, MS SQL Server, MySQL, Postgres)
