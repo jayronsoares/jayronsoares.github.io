@@ -1,5 +1,5 @@
 ## Portifólio de Análise de Dados
-Engenheiro de dados com mais de 10 anos de experiência em interpretação e análise de dados para conduzir soluções de negócios de sucesso. Habilidades sólidas de análise e visualização de dados para entrega contínua de resultados ao público certo no momento certo. Excelente compreensão das operações de negócios e forte capacidade analítica e de resolução de problemas para impulsionar a melhoria contínua dos negócios.
+Engenheiro de dados com mais de 10 anos de experiência em interpretação e análise de dados para conduzir soluções de negócios de sucesso. Proficiência em análise e visualização de dados para entrega contínua de resultados ao público certo no momento certo. Excelente compreensão das operações de negócios e forte capacidade analítica focado para resolução de problemas, afim de impulsionar de forma contínua a melhoria dos negócios.
 
 ### Proficiência nas seguintes tecnologias:
 1. Engenharia de Requisitos de Negócios
