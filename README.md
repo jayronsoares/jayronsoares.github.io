@@ -6,11 +6,12 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 2. Modelagem de dados (Relacional, Dimensional, & Não-Estruturado)
 3. Banco de Dados (Oracle, MS SQL Server, MySQL, Postgres)
 4. Linguagem SQL
-5. Qualidade e Gestão de Dados
-5. Python: Numpy, Pandas, Scikit-Learn, Statsmodels, Plotly, Matplotlib, Seaborn;
+5. Cloud Computing - AWS/Azure
 6. Engenharia de Dados
-7. DAX Power BI
-8. Visualização de Dados & Data Storytelling
+7. Qualidade e Gestão de Dados
+8. Python: Numpy, Pandas, Scikit-Learn, Statsmodels, Plotly, Matplotlib, Seaborn;
+9. DAX Power BI
+10. Visualização de Dados & Data Storytelling
 
 ## Alguns trabalhos na área de analytics:
 
