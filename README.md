@@ -19,7 +19,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 - [Data Engineering](https://github.com/jayronsoares/automated_data_engineering)
 
 ### 2. Análise de dados públicos.
-- [EDA](https://github.com/jayronsoares/dados_publicos/tree/main)
+- [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/tree/main)
 
 ### 3. Painel da Rede de Planejamento SEPLAG - RJ
 - [Data Visualization](https://www.rededeplanejamento.com.br/)
