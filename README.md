@@ -6,9 +6,9 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 2. Modelagem de dados (Relacional, Dimensional, & Não-Estruturado)
 3. Banco de Dados (Oracle, MS SQL Server, MySQL, Postgres)
 4. Linguagem SQL
-5. Cloud Computing - AWS/Azure
-6. Engenharia de Dados
-7. Qualidade e Gestão de Dados
+5. Engenharia de Dados
+6. Qualidade e Gestão de Dados
+7. Cloud Computing - AWS/Azure
 8. Python: Numpy, Pandas, Scikit-Learn, Statsmodels, Plotly, Matplotlib, Seaborn;
 9. DAX Power BI
 10. Visualização de Dados & Data Storytelling
@@ -23,12 +23,11 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 
 ### 3. Painel da Rede de Planejamento SEPLAG - RJ
 - [Data Visualization](https://www.rededeplanejamento.com.br/)
-  - [Planejamento em Dados](https://app.powerbi.com/view?r=eyJrIjoiNGFiMDYwOTYtMGZmMS00MDIyLWEyOWUtZGIxN2M3ZDZlZDZkIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   - **Para acessar o painel basta clicar em PLANEJAMENTO EM DADOS**
+  - [DAX POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNGFiMDYwOTYtMGZmMS00MDIyLWEyOWUtZGIxN2M3ZDZlZDZkIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   
 ### 4. Sistema de Inteligência artificial para UTI hospitalar (Protótipo)
 - [Machine Learning](https://icu.gayaanalytics.com)
-
-- **Credenciais para acesso:**
-  - Usuario: medico
-  - Senha: clinico
+  - **Credenciais para acesso:**
+    - Usuario: medico
+    - Senha: clinico
