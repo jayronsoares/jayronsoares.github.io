@@ -32,7 +32,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     - Seaborn.
       
 10. Visualização de Dados & Data Storytelling 
-    - (DAX Power BI)
+    - DAX Power BI
     
 ## Alguns trabalhos na área de analytics:
 
