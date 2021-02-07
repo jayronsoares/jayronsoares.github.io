@@ -3,7 +3,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 
 ### Proficiência nas seguintes tecnologias:
 1. Engenharia de Requisitos de Negócios
-2. Modelagem Relacional e Dimensional de dados
+2. Modelagem Relacional e Dimensional de Dados
 3. Sistemas de Banco de Dados
 4. Linguagem SQL
 5. Engenharia de Dados 
