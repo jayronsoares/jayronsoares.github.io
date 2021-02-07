@@ -3,17 +3,8 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 
 ### Proficiência nas seguintes tecnologias:
 1. Engenharia de Requisitos de Negócios
-2. Modelagem de dados 
-    - Relacional, 
-    - Dimensional,
-    - Não-Estruturado
-   <br/><br/>
-3. Banco de Dados
-    - Oracle, 
-    - MS SQL Server, 
-    - MySQL,
-    - Postgres.
-    <br/><br/>
+2. Modelagem Relacional e Dimensional de dados
+3. Sistemas de Banco de Dados
 4. Linguagem SQL
 5. Engenharia de Dados 
     - ELT pipelines
@@ -21,16 +12,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     <br/><br/>
 6. Qualidade e Gestão de Dados
 7. Cloud Computing - AWS/Azure
-8. Python
-    - Scipy, 
-    - Numpy, 
-    - Pandas, 
-    - Scikit-Learn, 
-    - Statsmodels, 
-    - Plotly, 
-    - Matplotlib,
-    - Seaborn.
-     <br/><br/>     
+8. Ecossistema Python
 10. Visualização de Dados & Data Storytelling 
     - DAX Power BI
     
