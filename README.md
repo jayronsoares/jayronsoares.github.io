@@ -7,21 +7,18 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     - Relacional, 
     - Dimensional,
     - Não-Estruturado
-    
-    
+   <br/><br/>
 3. Banco de Dados
     - Oracle, 
     - MS SQL Server, 
     - MySQL,
     - Postgres.
-    
-    
+    <br/><br/>
 4. Linguagem SQL
 5. Engenharia de Dados 
     - ELT pipelines
     - Data Warehousing/BI
-    
-    
+    <br/><br/>
 6. Qualidade e Gestão de Dados
 7. Cloud Computing - AWS/Azure
 8. Python
@@ -33,8 +30,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     - Plotly, 
     - Matplotlib,
     - Seaborn.
-      
-      
+     <br/><br/>     
 10. Visualização de Dados & Data Storytelling 
     - DAX Power BI
     
