@@ -7,7 +7,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 3. Sistemas de Banco de Dados
 4. Linguagem SQL
 5. Engenharia de Dados 
-    - ELT pipelines
+    - ETL pipelines
     - Data Warehousing/BI
     <br/><br/>
 6. Qualidade e Gestão de Dados
