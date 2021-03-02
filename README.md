@@ -1,5 +1,6 @@
 ## Portfólio
 Engenheiro de dados com mais de 10 anos de experiência em interpretação e análise de dados focados para soluções de negócios de sucesso. Proficiência em análise e visualização de dados para entrega contínua de resultados ao público certo no momento certo. Excelente compreensão das operações de negócios e forte capacidade analítica voltado para resolução de problemas, afim de impulsionar de forma contínua a melhoria dos negócios.
+[Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Proficiência nas seguintes tecnologias:
 1. Engenharia de Requisitos de Negócios
