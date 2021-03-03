@@ -21,7 +21,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     
 ## Alguns trabalhos na área de analytics:
 
-### 1. Engenharia de dados automatizado
+### 1. ETL pipeline automatizado
 - [Data Engineering](https://github.com/jayronsoares/automated_data_engineering)
 
 ### 2. Análise de dados públicos.
