@@ -34,5 +34,4 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 ### 4. Sistema de Inteligência artificial para UTI hospitalar (Protótipo)
 - [Machine Learning](https://icu.gayaanalytics.com)
   - **Credenciais para acesso:**
-    - Usuario: medico
-    - Senha: clinico
+    - solicitar via email.
