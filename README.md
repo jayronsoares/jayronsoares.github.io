@@ -28,7 +28,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 - [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/tree/main)
 
 ### 3. Painel da Rede de Planejamento SEPLAG - RJ
-- [HTML/CSS/JavaScript](https://www.rededeplanejamento.com.br/)
+- [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
 - [Dashboard - DAX Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   
 ### 4. Sistema de Inteligência artificial para UTI hospitalar (Protótipo)
