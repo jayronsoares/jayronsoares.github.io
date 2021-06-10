@@ -38,4 +38,3 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
 
 ### Entre em contato ###
 - email: jayronsoares@yandex.com
-- telefone:(21) 98627-8854
