@@ -13,7 +13,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     - ETL pipelines
     - Data Warehousing/BI
     <br/><br/>
-6. Qualidade e Gestão de Dados
+6. Gestão & Qualidade de Dados
 7. Cloud Computing - AWS/Azure
 8. Ecossistema Python
 10. Visualização de Dados & Data Storytelling 
