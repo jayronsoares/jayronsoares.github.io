@@ -14,7 +14,7 @@ Engenheiro de dados com mais de 10 anos de experiência em interpretação e an�
     - Data Warehousing/BI
     <br/><br/>
 6. Gestão & Qualidade de Dados
-7. Cloud Computing - AWS/Azure
+7. Cloud Computing - AWS RDS/IAM- Snowflake DW
 8. Ecossistema Python
 10. Visualização de Dados & Data Storytelling 
     - DAX Power BI
