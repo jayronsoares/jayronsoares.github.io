@@ -1,5 +1,5 @@
 ## Portfólio
-Data engineer with 10+ years of experience interpreting and analyzing data in order to drive sucessfull business solutions.  Expertise in data modeling, database performance tuning; handson on ETL pipeline development, primarily using SQL andd Python language. Good understanding of business operations; strong analytical and problem-solving skills for driving continuous business improvement.
+Data engineer with 10+ years of experience interpreting and analyzing data in order to drive successful business solutions.  Expertise in data modeling, database performance tuning; hands-on experience in ETL pipeline development, primarily using SQL and Python language. Good understanding of business operations; strong analytical and problem-solving skills for driving continuous business improvement.
 <br>
 ### My posts<br>
 [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
