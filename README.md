@@ -5,7 +5,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Skills:
-1. Business requirements interpretation
+1. Business requirements analysis
 2. Relational and dimensional data modeling
 3. Database management systems
 4. SQL Language
