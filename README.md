@@ -1,5 +1,5 @@
 ## Portfolio
-Data engineer with 10+ years of experience interpreting and analyzing data in order to drive successful business solutions.  Expertise in data modeling, database performance tuning; hands on experience in ETL pipeline development, primarily using SQL and Python language. Good understanding of business operations; strong analytical and problem-solving skills for driving continuous business improvement.
+Data engineer with 10+ years of experience interpreting and analyzing data in order to drive successful business solutions.  Expertise in data modeling, and database performance tuning; hands-on experience with ETL pipeline development, primarily using SQL and Python languages. Good understanding of business operations; strong analytical and problem-solving skills for driving continuous business improvement.
 <br>
 ### My posts<br>
 [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
@@ -27,9 +27,9 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ### 2. Public data analysis.
 - [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/tree/main)
 
-### 3. SEPLAG - RJ Dashboard
+### 3.DAX POWER BI Dashboard
 - [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
-- [Dashboard - DAX Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
+- [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   
 ### 4. Intensive care unit AI system (prototype)
 - [Machine Learning](https://icu.gayaanalytics.com)
