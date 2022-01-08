@@ -21,13 +21,13 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
     
 ## Work samples:
 
-### 1. ETL pipeline
-- [Data Engineering](https://github.com/jayronsoares/automated_data_engineering)
+### 1. Data engineering.
+- [ETL pipeline](https://github.com/jayronsoares/automated_data_engineering)
 
 ### 2. Public data analysis.
 - [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/tree/main)
 
-### 3.DAX POWER BI Dashboard
+### 3.DAX POWER BI.
 - [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   
