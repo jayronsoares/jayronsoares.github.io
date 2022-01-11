@@ -22,11 +22,11 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ## Work samples:
 
 ### 1. Data engineering.
-- [ETL pipeline](https://github.com/jayronsoares/automated_data_engineering)
-- [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python)
+- [ETL pipeline](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
+- [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
 
 ### 2. Public data analysis.
-- [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/tree/main)
+- [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
 
 ### 3.DAX POWER BI.
 - [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
