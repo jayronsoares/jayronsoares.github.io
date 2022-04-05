@@ -24,6 +24,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ### 1. Data engineering.
 - [ETL pipeline](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
 - [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
+- [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
 
 ### 2. Public data analysis.
 - [Exploratory Data Analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
@@ -35,7 +36,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ### 4. Intensive care unit AI system (prototype)
 - [Machine Learning](https://icu.gayaanalytics.com)
   - **User and password:**
-    - send an email.
+    - please, send me an email.
 
 ### Contact ###
 - email: jayronsoares@yandex.com
