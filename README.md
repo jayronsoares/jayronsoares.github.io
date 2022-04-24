@@ -22,7 +22,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ## Work samples:
 
 ### 1. Data engineering.
-- [ETL pipeline handling multiple datasources(log, csv, xlsx)](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
+- [Simple ETL pipeline(log, csv, xlsx)](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
 - [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
 - [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
 - [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
