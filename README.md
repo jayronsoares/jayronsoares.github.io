@@ -29,7 +29,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 - [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
 
 ### 2. Public data analysis.
-- [EDA - Customer Satisfaction analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
+- [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
 
 ### 3.DAX POWER BI.
