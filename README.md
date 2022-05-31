@@ -15,9 +15,11 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
     - Data Warehousing/BI
     <br/><br/>
 6. Data quality management
-7. Cloud Computing - AWS RDS/IAM/S3- Snowflake DW
-8. Python language
-10. Data visualization & Data Storytelling 
+7. Cloud Computing - AWS RDS/IAM/S3
+8. Cloud Computing - Azure/ADF
+9. Snowflake/DW
+10. Python language
+11. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
