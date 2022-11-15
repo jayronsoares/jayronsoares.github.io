@@ -40,7 +40,7 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
   
 ### 4. Intensive care unit AI system (prototype)
-- [Machine Learning](https://icu.gayaanalytics.com)
+- [Machine Learning](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - please, send me an email.
 
