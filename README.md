@@ -34,13 +34,14 @@ Data engineer with 10+ years of experience interpreting and analyzing data in or
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
+- [Predicting Patient Sepsis in the ICU](https://github.com/jayronsoares/healthcare_icu/blob/main/predicting_patient_sepsis)
 
 ### 3.DAX POWER BI.
 - [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
-  
+
 ### 4. Intensive care unit AI system (prototype)
-- [Machine Learning](https://icu.gayaanalytics.com.br)
+- [GAYA ICU](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - please, send me an email.
 
