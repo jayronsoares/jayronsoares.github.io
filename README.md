@@ -31,6 +31,7 @@ Data engineer with 12+ years of experience interpreting and analyzing data in or
 - [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
 - [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
 - [Data quality control](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
+- [Data quality checklist with FastAPI](https://github.com/jayronsoares/healthcare_icu/blob/main/data_quality_control_fastapi.py)
 
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
