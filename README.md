@@ -1,5 +1,5 @@
 ## Portfolio
-Experienced data engineer with 12+ years of expertise in analyzing and interpreting data to deliver effective business solutions. Proficient in data modeling, database performance tuning, and developing ETL/ELT pipelines using SQL and Python with a strong emphasis on functional programming. Good understanding of business operations and skilled in practical problem-solving, driving continuous improvement.
+As a data engineer, I have  12+ years of experience in analyzing and interpreting data to deliver effective business solutions. I am proficient in data modeling techniques, database performance tuning, and developing ETL/ELT pipelines using SQL and Python, with a focus on functional programming. Additionally, I have good understanding of business operations and skilled in practical problem-solving, driving continuous improvement.
  
 <br>
 ### My blog posts<br>
