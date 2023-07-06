@@ -32,6 +32,7 @@ As a data engineer, I have  12+ years of experience in analyzing and interpretin
 - [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
 - [Data quality control](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
 - [Data quality checklist with FastAPI](https://github.com/jayronsoares/healthcare_icu/blob/main/data_quality_control_fastapi.py)
+- [RestFul API Request Optimization](https://github.com/jayronsoares/healthcare_icu/blob/80a92b7a275879b24a014ab081846ad6f201b238/RestFul%20API%20Request%20Optimization.py)
 
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
