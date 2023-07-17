@@ -45,7 +45,7 @@ As a data engineer, I have  12+ years of experience in analyzing and interpretin
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
 ### 4. Apps
-- [Data Quality Evaluation Flask App](https://github.com/jayronsoares/flaskdqc.git)
+- [Data Quality Evaluation App](https://github.com/jayronsoares/flaskdqc.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - please, send me an email.
