@@ -40,12 +40,13 @@ As a data engineer, I have  12+ years of experience in analyzing and interpretin
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
 - [ML - Predicting Patient Sepsis in the ICU](https://github.com/jayronsoares/healthcare_icu/blob/main/predict.py)
 
-### 3.DAX POWER BI.
+### 3. DAX POWER BI.
 - [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
-### 4. Intensive care unit AI system (prototype)
-- [GAYA ICU](https://icu.gayaanalytics.com.br)
+### 4. Apps
+- [Data Quality Evaluation Flask App](https://github.com/jayronsoares/flaskdqc.git)
+- [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - please, send me an email.
 
