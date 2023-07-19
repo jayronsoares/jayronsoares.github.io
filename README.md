@@ -46,6 +46,7 @@ As a data engineer, I have  12+ years of experience in analyzing and interpretin
 
 ### 4. Apps
 - [Data Quality Evaluation App](https://github.com/jayronsoares/flaskdqc.git)
+- [Data Profiling App](https://github.com/jayronsoares/data_profiling.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - please, send me an email.
