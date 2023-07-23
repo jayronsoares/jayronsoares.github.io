@@ -34,6 +34,7 @@ As a data engineer, I have  12+ years of experience in analyzing and interpretin
 - [Data quality checklist with FastAPI](https://github.com/jayronsoares/healthcare_icu/blob/main/data_quality_control_fastapi.py)
 - [RestFul API Request Optimization](https://github.com/jayronsoares/healthcare_icu/blob/9fa8ffade315bee63d2d718691320fb4d54b368b/RestFul%20API%20Request%20Optimization%20-%20Cache%20%26%20Pagination.py)
 - [Lazy Evaluation Best Practices](https://github.com/jayronsoares/data_engineering_blog.git)
+- [Data Pipelines using Generators](https://github.com/jayronsoares/de_pipelines_generators.git)
 
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
