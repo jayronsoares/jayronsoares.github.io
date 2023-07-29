@@ -1,5 +1,5 @@
 ## Portfolio
-As a seasoned data engineer with 12+ years of experience, I developed a solid skillset in analyzing and interpreting data to deliver effective business solutions. I have proficiency in data modeling, database performance tuning, and developing ETL/ELT pipelines using SQL and Python, my focus on functional programming ensures optimal results. Moreover, I embrace continuous learning, fostering confidence in navigating uncertainties and embracing change with enthusiasm.
+I'm a Data Engineer with 12+ years of experience. I love analyzing and interpreting data to create effective business solutions. My skills include data modeling, database performance tuning, and building ETL/ELT pipelines using SQL and Python, all with a foundation in functional programming principles. Moreover, I embrace continuous learning, fostering confidence in navigating uncertainties and embracing change with enthusiasm.
  
 <br>
 ### My blog posts<br>
