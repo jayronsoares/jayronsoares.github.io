@@ -47,7 +47,6 @@ I'm a Data Engineer with 12+ years of experience. I love analyzing and interpret
 ### 4. Apps
 - [Data Quality App](https://github.com/jayronsoares/flaskdqc.git)
 - [Data Profiling App](https://github.com/jayronsoares/data_profiling.git)
-- [Data Health Check](https://github.com/jayronsoares/data_health_check.git)
 - [AWS - Cloud Costs Optimization](https://github.com/jayronsoares/aws_ec2_costs.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
