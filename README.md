@@ -10,12 +10,13 @@ I'm a Data Engineer with 12+ years of experience. I love analyzing and interpret
 2. Relational and dimensional data modeling
 3. Database performance tuning
 4. SQL language
-5. Data engineering 
+5. dbt for Data Transformation
+6. Data engineering 
     - ETL/ELT pipelines
     - Data Warehousing/BI
     <br/><br/>
-6. Data quality management
-7. Cloud Computing: 
+7. Data quality management
+8. Cloud Computing: 
     - AWS /RDS-IAM-S3
     - Azure /ADF
     - Snowflake Data Warehouse
