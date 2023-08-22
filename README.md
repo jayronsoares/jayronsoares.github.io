@@ -9,19 +9,19 @@
 1. Business requirements analysis
 2. Relational and dimensional data modeling
 3. Database performance tuning
-4. SQL language
+4. SQL Language
 5. dbt for Data Transformation
-6. Data engineering 
-    - ETL/ELT pipelines
+6. Python Language (Functional programming principles)
+7. Data engineering 
+    - Idempotent ETL/ELT pipelines
     - Data Warehousing/BI
     <br/><br/>
-7. Data quality management
-8. Cloud Computing: 
-    - AWS /RDS-IAM-S3
+8. Data quality management
+9. Cloud Computing: 
+    - AWS /Redshift - RDS - IAM - S3 Bucket
     - Azure /ADF
     - Snowflake Data Warehouse
-11. Python language
-12. Data visualization & Data Storytelling 
+11. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
