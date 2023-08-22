@@ -1,5 +1,5 @@
 ## Portfolio
-I'm a Data Engineer with 12+ years of experience. I love analyzing and interpreting data to create effective business solutions. My skills include data modeling, database performance tuning, and building ETL/ELT pipelines using SQL and Python, all with a foundation in functional programming principles. Moreover, I embrace continuous learning, fostering confidence in navigating uncertainties and embracing change with enthusiasm.
+- I am a Data Engineer with over 10 years of experience, dedicated to transforming data into effective business solutions. My ethos revolves around humility, acknowledging strengths and weaknesses in all of us. To me, collaborative learning and growth are paramount, as we work together to build a sustainable business. I embrace feedback openly, treating colleagues with utmost respect. My commitment to learning is ceaseless, boosting my confidence in adapting to change and uncertainty. Driven by a determined spirit, I tackle challenges with a "Killer Instinct," surging ahead even when faced with obstacles. When barriers arise, I communicate proactively, seeking help when needed. My focus remains unwavering—delivering impactful results that contribute to ongoing business development.
  
 <br>
 ### My blog posts<br>
