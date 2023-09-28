@@ -1,5 +1,6 @@
 ## Portfolio
 <p>I am a Data Engineer with over 10 years of experience, dedicated to transforming data into effective business solutions. My ethos revolves around humility, acknowledging strengths and weaknesses in all of us. Collaborative learning and growth are paramount, as we work together to build a sustainable business. I embrace feedback openly, treating colleagues with the utmost respect.
+
 My commitment to learning is ceaseless, boosting my confidence in adapting to change and uncertainty. Driven by a determined spirit, I tackle challenges with a "Killer Instinct," surging ahead even when faced with obstacles. When barriers arise, I communicate proactively, seeking help when needed. My focus remains unwavering—delivering impactful results that contribute to ongoing business development.</p>
  
 <br>
