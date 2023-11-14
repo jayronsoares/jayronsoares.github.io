@@ -55,7 +55,9 @@
 - [Cloud Costs Optimization Simulation](https://github.com/jayronsoares/cloudcostsopt.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
-    - please, send me an email.
+    - user:medico
+    - password:clinico
+
 
 ### Contact ###
 - email: jayronsoares@yandex.com
