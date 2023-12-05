@@ -1,5 +1,5 @@
 ## Portfolio
-<p>I'm a Data Engineer with over 10 years of experience, focused on turning data into effective business solutions. I believe in humility, recognizing strengths and weaknesses, and value collaborative learning for sustainable business growth. I'm open to feedback, treat colleagues with respect, and constantly commit to learning.</p>
+<p>I'm a Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. I believe in humility, recognizing strengths and weaknesses, and value collaborative learning for sustainable business growth. I'm open to feedback, treat colleagues with respect, and constantly commit to learning.</p>
 <p>I thrive on tackling challenges with determination and enthusiasm, even when faced with obstacles. I communicate openly and seek help when needed. My main goal is delivering impactful results that contribute to ongoing business development.</p>
 <br>
 ### My blog posts<br>
