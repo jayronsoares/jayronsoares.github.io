@@ -36,6 +36,8 @@
 - [Lazy Evaluation Best Practices](https://github.com/jayronsoares/data_engineering_blog.git)
 - [Data Pipelines using Generators](https://github.com/jayronsoares/de_pipelines_generators.git)
 - [Data Vault Modeling](https://github.com/jayronsoares/datavaultmodeling.git)
+- [Data Engineering Common Errors](https://github.com/jayronsoares/data_engineering_common_errors)
+- [Optimizing SQL Logic](https://github.com/jayronsoares/optimizing_sql_logic)
 
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
