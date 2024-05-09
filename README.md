@@ -10,24 +10,36 @@
 2. Data requirements analysis
 3. Data modeling techniques
      - Relational
-         - Entities, Attributes, Relationships, Primary Keys, Foreign Keys, ACID, Normalization
+         - Entities,
+         - Attributes,
+         - Relationships,
+         - Normalization
      - Dimensional
-         - Identifying the business process, declaring the granularity, select the dimensions and facts tables, mapping of comformed dimensions.
+         - Identifying the business process,
+         - Declaring the granularity,
+         - Building the dimensions and facts tables,
+         - Mapping of comformed dimensions
+         - Slowly change dimensions
 4. Database performance tuning
-5. SQL Language (DML, DDL, CTE, Subqueries, Window Functions)
-7. Python Language (Functional programming principles)
-8. Data integration
+5. SQL Language
+6.      - DML,
+7.      - DDL,
+8.      - CTE,
+9.      - Subqueries,
+10.     - Window Functions
+11. Python Language (Functional programming principles)
+12. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
-    - Kimball Data Warehousing/BI methodology
+    - Kimball Data Warehousing/Business Intelligence methodology
     <br/><br/>
-10. Data governance and quality management
+13. Data governance and quality management
     - Log and monitoring DQ metrics
-12. Cloud Computing: 
+14. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket
-    - Azure /ADF/Fabric
+    - Azure /ADF-SQL Server
     - Snowflake Data Warehouse()
-13. Data visualization & Data Storytelling 
+15. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
