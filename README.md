@@ -1,27 +1,33 @@
 ## Portfolio
-<p>I'm a Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. I believe in humility, recognizing strengths and weaknesses, and value collaborative learning for sustainable business growth. I'm open to feedback, treat colleagues with respect, and constantly commit to learning.</p>
+<p>Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. I believe in humility, recognizing strengths and weaknesses, and value collaborative learning for sustainable business growth. I'm open to feedback, treat colleagues with respect, and constantly commit to learning.</p>
 <p>I thrive on tackling challenges with determination and enthusiasm, even when faced with obstacles. I communicate openly and seek help when needed. My main goal is delivering impactful results that contribute to ongoing business development.</p>
 <br>
 ### My blog posts<br>
 [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Skills:
-1. Business requirements analysis
-2. Relational and dimensional data modeling
-3. Database performance tuning
-4. SQL Language
-5. dbt for Data Transformation
-6. Python Language (Functional programming principles)
-7. Data engineering 
+1. Domain knowledge and Business process interpretation
+2. Data requirements analysis
+3. Data modeling techniques
+     - Relational
+         - Entities, Attributes, Relationships, Primary Keys, Foreign Keys, ACID, Normalization
+     - Dimensional
+         - Identifying the business process, declaring the granularity, select the dimensions and facts tables, mapping of comformed dimensions.
+4. Database performance tuning
+5. SQL Language (DML, DDL, CTE, Subqueries, Window Functions)
+7. Python Language (Functional programming principles)
+8. Data integration
+    - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
-    - Data Warehousing/BI
+    - Kimball Data Warehousing/BI methodology
     <br/><br/>
-8. Data quality management
-9. Cloud Computing: 
+10. Data governance and quality management
+    - Log and monitoring DQ metrics
+12. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket
-    - Azure /ADF
-    - Snowflake Data Warehouse
-11. Data visualization & Data Storytelling 
+    - Azure /ADF/Fabric
+    - Snowflake Data Warehouse()
+13. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
