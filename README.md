@@ -3,7 +3,7 @@
 <p>I thrive on tackling challenges with determination and enthusiasm, even when faced with obstacles. I communicate openly and seek help when needed. My main goal is delivering impactful results that contribute to ongoing business development.
 <br></p>
 ### My blog posts <br>
-[Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
+- [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Skills:
 1. Domain knowledge and Business process interpretation
