@@ -7,39 +7,43 @@
 
 ### Skills:
 1. Domain knowledge and Business process interpretation
-2. Data requirements analysis
+     - Data requirements analysis
 3. Data modeling techniques
      - Relational
          - Entities,
          - Attributes,
          - Relationships,
-         - Normalization
+         - Normalization.
      - Dimensional
          - Identifying the business process,
          - Declaring the granularity,
          - Building the dimensions and facts tables,
-         - Mapping of comformed dimensions
-         - Slowly change dimensions
-4. Database performance tuning
+         - Mapping comformed dimensions,
+         - Slowly change dimensions.
+4. Database and Query Optimization
+    - Analyze query execution plans to identify inefficiencies and bottlenecks,
+    - Rewrite queries to leverage query caching, query parallelism, and appropriate indexing,
+    - Prioritize optimizing frequently used or resource-intensive queries.
 5. SQL Language
-6.      - DML,
-7.      - DDL,
-8.      - CTE,
-9.      - Subqueries,
-10.     - Window Functions
-11. Python Language (Functional programming principles)
-12. Data integration
+    - CTE,
+    - Subqueries,
+    - Window Functions.
+6. Python Language (Functional programming principles)
+7. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
-    - Kimball Data Warehousing/Business Intelligence methodology
-    <br/><br/>
-13. Data governance and quality management
+    - Kimball Data Warehousing/BI methodology
+    <br/>
+8. Data governance and quality management
     - Log and monitoring DQ metrics
-14. Cloud Computing: 
+9. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket
-    - Azure /ADF-SQL Server
-    - Snowflake Data Warehouse()
-15. Data visualization & Data Storytelling 
+    - Azure /ADF - SQL Server
+    - Snowflake Data Warehouse
+          - Data model optimization,
+          - Data partitioning,
+          - Clustering, and compression techniques.
+10. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
