@@ -40,9 +40,9 @@
     - AWS /Redshift - RDS - IAM - S3 Bucket
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
-          - Data model optimization,
-          - Data partitioning,
-          - Clustering, and compression techniques.
+      - Data model optimization,
+      - Data partitioning,
+      - Clustering, and compression techniques.
 10. Data visualization & Data Storytelling 
     - DAX Power BI
     
