@@ -1,6 +1,6 @@
 ## Portfolio
-<p>Data Engineer with over 12 years of experience, focused on turning data into effective business solutions.</p>
-- Collaborate with stakeholders to assess Return on Investment for data-driven solutions, delivering actionable insights.
+<p>Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. Collaborating with stakeholders to assess Return on Investment for data-driven solutions, delivering actionable insights.</p>
+
 <p>Linkedln: https://www.linkedin.com/in/jayron-s-3929a0b2/<br></p>
 ### My blog posts <br>
 - [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
