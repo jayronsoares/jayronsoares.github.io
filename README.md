@@ -1,7 +1,6 @@
-![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/02071acd-b56f-4eac-a920-9b2ba110ab6a)
-
 ## Portfolio
 <p>Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. Collaborating with stakeholders to assess Return on Investment for data-driven solutions, delivering actionable insights.</p>
+![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a8b0717c-cee1-4532-893f-0a67ab092d5e)
 
 ## [Linkedln:](https://www.linkedin.com/in/jayron-s-3929a0b2)<br>
 ### My blog posts <br>
