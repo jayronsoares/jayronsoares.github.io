@@ -1,29 +1,17 @@
+![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/bb66209a-f212-4b70-903f-c4d1321385dd)
 ## Portfolio
 <p>Data Engineer with over 12 years of experience, focused on turning data into effective business solutions. Collaborating with stakeholders to assess Return on Investment for data-driven solutions, delivering actionable insights.</p>
 
-<p>Linkedln: https://www.linkedin.com/in/jayron-s-3929a0b2/<br></p>
+## [Linkedln:](https://www.linkedin.com/in/jayron-s-3929a0b2)<br>
 ### My blog posts <br>
 - [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Skills:
 1. Domain knowledge and Business process interpretation
-     - Data requirements analysis
-3. Data modeling techniques
+2. Data modeling techniques
      - Relational
-         - Entities,
-         - Attributes,
-         - Relationships,
-         - Normalization.
      - Dimensional
-         - Identifying the business process,
-         - Declaring the granularity,
-         - Building the dimensions and facts tables,
-         - Mapping comformed dimensions,
-         - Slowly change dimensions.
 4. Database and Query Optimization
-    - Analyze query execution plans to identify inefficiencies and bottlenecks,
-    - Rewrite queries to leverage query caching, query parallelism, and appropriate indexing,
-    - Prioritize optimizing frequently used or resource-intensive queries.
 5. SQL Language
     - CTE,
     - Subqueries,
