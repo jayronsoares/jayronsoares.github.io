@@ -17,21 +17,23 @@
     - Subqueries,
     - Window Functions.
 6. Python Language (Functional programming principles)
-7. Data integration
+   ![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a708134c-d35c-480a-8fd0-721ce86382b5)
+
+8. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
     - Kimball Data Warehousing/BI methodology
     <br/>
-8. Data governance and quality management
+9. Data governance and quality management
     - Log and monitoring DQ metrics
-9. Cloud Computing: 
+10. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
       - Data model optimization,
       - Data partitioning,
       - Clustering, and compression techniques.
-10. Data visualization & Data Storytelling 
+11. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
