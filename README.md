@@ -11,29 +11,27 @@
 2. Data modeling techniques
      - Relational
      - Dimensional
-4. Database and Query Optimization
-5. SQL Language
+3. Database and Query Optimization
+4. SQL Language
     - CTE,
     - Subqueries,
     - Window Functions.
-6. Python Language (Functional programming principles)
-   ![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a708134c-d35c-480a-8fd0-721ce86382b5)
-
-8. Data integration
+5. Python Language (Functional programming principles)
+6. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
     - Kimball Data Warehousing/BI methodology
     <br/>
-9. Data governance and quality management
+8. Data governance and quality management
     - Log and monitoring DQ metrics
-10. Cloud Computing: 
+9. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
       - Data model optimization,
       - Data partitioning,
       - Clustering, and compression techniques.
-11. Data visualization & Data Storytelling 
+10. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
