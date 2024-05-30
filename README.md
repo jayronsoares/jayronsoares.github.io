@@ -43,10 +43,7 @@
 - [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
 - [Data quality checklist](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
 - [RestFul API Request Optimization](https://github.com/jayronsoares/healthcare_icu/blob/9fa8ffade315bee63d2d718691320fb4d54b368b/RestFul%20API%20Request%20Optimization%20-%20Cache%20%26%20Pagination.py)
-- [Lazy Evaluation Best Practices](https://github.com/jayronsoares/data_engineering_blog.git)
-- [Data Pipelines using Generators](https://github.com/jayronsoares/de_pipelines_generators.git)
-- [Data Vault Modeling](https://github.com/jayronsoares/datavaultmodeling.git)
-- [Data Engineering Common Errors](https://github.com/jayronsoares/data_engineering_common_errors)
+- [dbt Tutorial](https://github.com/jayronsoares/dbt_tutorial.git)
 - [Optimizing SQL Logic](https://github.com/jayronsoares/optimizing_sql_logic)
 
 ### 2. Public data analysis.
