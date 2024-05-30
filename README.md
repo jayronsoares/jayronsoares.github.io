@@ -25,7 +25,7 @@
 8. Data governance and quality management
     - Log and monitoring DQ metrics
 9. Cloud Computing: 
-    - AWS /Redshift - RDS - IAM - S3 Bucket
+    - AWS /Redshift - RDS - IAM - S3 Bucket - Glue
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
       - Data model optimization,
@@ -52,7 +52,7 @@
 - [ML - Predicting Patient Sepsis in the ICU](https://github.com/jayronsoares/healthcare_icu/blob/main/predict.py)
 
 ### 3. DAX POWER BI.
-- [HTML/CSS/JavaScript](http://www.redeplan.planejamento.rj.gov.br/)
+- [SEPLAG-RJ Website](http://www.redeplan.planejamento.rj.gov.br/)
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
 ### 4. Apps
