@@ -7,23 +7,25 @@
 - [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
 ### Skills:
-1. Domain knowledge and Business process interpretation
+1. Domain knowledge and problem-solving
 2. Data modeling techniques
      - Relational
      - Dimensional
 3. Database and Query Optimization
-4. SQL Language
-    - CTE,
-    - Subqueries,
-    - Window Functions.
-5. Python Language (Functional programming principles)
-6. Data integration
+   <br/>
+5. SQL Language
+    - CTE
+    - Subqueries
+    - Window Functions
+6. Python Language (Functional programming principles)
+7. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
     - Kimball Data Warehousing/BI methodology
     <br/>
 8. Data governance and quality management
     - Log and monitoring DQ metrics
+    <br/>
 9. Cloud Computing: 
     - AWS /Redshift - RDS - IAM - S3 Bucket - Glue
     - Azure /ADF - SQL Server
@@ -31,6 +33,7 @@
       - Data model optimization,
       - Data partitioning,
       - Clustering, and compression techniques.
+     <br/>
 10. Data visualization & Data Storytelling 
     - DAX Power BI
     
