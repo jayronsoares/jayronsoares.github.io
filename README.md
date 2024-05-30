@@ -14,7 +14,7 @@
 3. Database and Query Optimization
    <br/>
 5. SQL Language
-6. Python Language -> Functional programming principles
+6. Python Language(Functional programming principles)
 7. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
