@@ -14,20 +14,16 @@
 3. Database and Query Optimization
    <br/>
 5. SQL Language
-    - CTE
-    - Subqueries
-    - Window Functions
-6. Python Language (Functional programming principles)
+6. Python Language -> Functional programming principles
 7. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
     - Kimball Data Warehousing/BI methodology
     <br/>
 8. Data governance and quality management
-    - Log and monitoring DQ metrics
     <br/>
-9. Cloud Computing: 
-    - AWS /Redshift - RDS - IAM - S3 Bucket - Glue
+9. Cloud Computing:
+    - AWS Services (Redshift, RDS, IAM, S3 Bucket, and Glue)
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
       - Data model optimization,
