@@ -14,15 +14,16 @@
 3. Database and Query Optimization
    <br/>
 5. SQL Language
-6. Python Language(Functional programming principles)
-7. Data integration
+6. Python Language
+    - Functional Programming Principles
+8. Data integration
     - Data Profiling and Cleaning
     - Idempotent ETL/ELT pipelines
     - Kimball Data Warehousing/BI methodology
     <br/>
-8. Data governance and quality management
+9. Data governance and quality management
     <br/>
-9. Cloud Computing:
+10. Cloud Computing:
     - AWS Services (Redshift, RDS, IAM, S3 Bucket, and Glue)
     - Azure /ADF - SQL Server
     - Snowflake Data Warehouse
@@ -30,7 +31,7 @@
       - Data partitioning,
       - Clustering, and compression techniques.
      <br/>
-10. Data visualization & Data Storytelling 
+11. Data visualization & Data Storytelling 
     - DAX Power BI
     
 ## Work samples:
