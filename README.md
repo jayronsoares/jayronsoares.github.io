@@ -25,7 +25,7 @@
     <br/>
 10. Cloud Computing:
     - AWS Services (Redshift, RDS, IAM, S3 Bucket, and Glue)
-    - Azure /ADF - SQL Server
+    - GCP - BigQuery
     - Snowflake Data Warehouse
       - Data model optimization,
       - Data partitioning,
