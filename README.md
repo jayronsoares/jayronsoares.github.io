@@ -51,7 +51,7 @@
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
 - [ML - Predicting Patient Sepsis in the ICU](https://github.com/jayronsoares/healthcare_icu/blob/main/predict.py)
 
-### 3. DAX POWER BI.
+### 3. Data visualization.
 - [SEPLAG-RJ Website](http://www.redeplan.planejamento.rj.gov.br/)
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
