@@ -49,7 +49,6 @@
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
-- [ML - Predicting Patient Sepsis in the ICU](https://github.com/jayronsoares/healthcare_icu/blob/main/predict.py)
 
 ### 3. Data visualization.
 - [SEPLAG-RJ Website](http://www.redeplan.planejamento.rj.gov.br/)
