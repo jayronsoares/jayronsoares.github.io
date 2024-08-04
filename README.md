@@ -57,7 +57,7 @@
 ### 4. Apps
 - [Data Quality App](https://github.com/jayronsoares/flaskdqc.git)
 - [Data Profiling App](https://github.com/jayronsoares/data_profiling.git)
-- [AWS - EC2 Costs Optimization](https://github.com/jayronsoares/aws_ec2_costs.git)
+- [Index Analysis Visualization](https://github.com/jayronsoares/index_analysis_tool.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - user:medico
