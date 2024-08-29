@@ -11,7 +11,7 @@
 2. Data modeling techniques
      - Relational
      - Dimensional
-3. Database and Query Optimization
+3. Database Administration and Query Optimization
    <br/>
 5. SQL Language
 6. Python Language
@@ -56,7 +56,7 @@
 
 ### 4. Apps
 - [Data Quality App](https://github.com/jayronsoares/flaskdqc.git)
-- [Data Profiling App](https://github.com/jayronsoares/data_profiling.git)
+- [Data Anonymization Tool](https://dataanonymization-2wsbt6fsqx5jpzty9rqq2y.streamlit.app)
 - [Index Analysis Visualization](https://github.com/jayronsoares/index_analysis_tool.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
