@@ -57,6 +57,8 @@
 ### 4. Apps
 - [Data Quality App](https://github.com/jayronsoares/flaskdqc.git)
 - [Data Anonymization Tool](https://dataanonymization-2wsbt6fsqx5jpzty9rqq2y.streamlit.app)
+- [Burnout Assement Tool(English Version)](https://burnouttoolforyou.streamlit.app)
+- [Burnout Assement Tool(Portuguese Version)](https://burnoutforyou.streamlit.app)
 - [Index Analysis Visualization](https://github.com/jayronsoares/index_analysis_tool.git)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
