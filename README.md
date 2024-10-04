@@ -55,8 +55,7 @@
 - [SEPLAG-RJ Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
 ### 4. Apps
-- [Data Quality App](https://github.com/jayronsoares/flaskdqc.git)
-- [Data Anonymization Tool](https://dataanonymization-2wsbt6fsqx5jpzty9rqq2y.streamlit.app)
+- [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
 - [Burnout Assement Tool(English Version)](https://burnouttoolforyou.streamlit.app)
 - [Burnout Assement Tool(Portuguese Version)](https://burnoutforyou.streamlit.app)
 - [Index Analysis Visualization](https://github.com/jayronsoares/index_analysis_tool.git)
