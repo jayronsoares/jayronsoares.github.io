@@ -40,10 +40,8 @@
 - [Simple ETL pipeline(log, csv, xlsx)](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
 - [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
 - [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
-- [Data profiling with Pandas](https://github.com/jayronsoares/eda_profiling)
 - [Data quality checklist](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
 - [RestFul API Request Optimization](https://github.com/jayronsoares/healthcare_icu/blob/9fa8ffade315bee63d2d718691320fb4d54b368b/RestFul%20API%20Request%20Optimization%20-%20Cache%20%26%20Pagination.py)
-- [dbt Tutorial](https://github.com/jayronsoares/dbt_tutorial.git)
 - [Optimizing SQL Logic](https://github.com/jayronsoares/optimizing_sql_logic)
 
 ### 2. Public data analysis.
@@ -56,9 +54,9 @@
 
 ### 4. Apps
 - [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
-- [Burnout Assement Tool(English Version)](https://burnouttoolforyou.streamlit.app)
-- [Burnout Assement Tool(Portuguese Version)](https://burnoutforyou.streamlit.app)
-- [Index Analysis Visualization](https://github.com/jayronsoares/index_analysis_tool.git)
+- [Burnout Assement Tool(English)](https://burnouttoolforyou.streamlit.app)
+- [Burnout Assement Tool(Portuguese)](https://burnoutforyou.streamlit.app)
+- [Data-Driven Business Health Check](https://datadrivenmaturityassessment.streamlit.app/)
 - [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
   - **User and password:**
     - user:medico
