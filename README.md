@@ -57,11 +57,7 @@
 - [Burnout Assement Tool(English)](https://burnouttoolforyou.streamlit.app)
 - [Burnout Assement Tool(Portuguese)](https://burnoutforyou.streamlit.app)
 - [Data-Driven Business Health Check](https://datadrivenmaturityassessment.streamlit.app/)
-- [GAYA ICU - Intensive care unit AI system (prototype)](https://icu.gayaanalytics.com.br)
-  - **User and password:**
-    - user:medico
-    - password:clinico
-
+- [GAYA ICU - Intensive care unit AI system (prototype)](https://gayaicu.streamlit.app/)
 
 ### Contact ###
 - email: jayronsoares@yandex.com
