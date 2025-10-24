@@ -1,6 +1,6 @@
 ## Portfolio
 ![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a8b0717c-cee1-4532-893f-0a67ab092d5e)
-<p>Data Engineer with over 10 years of experience, focused on turning data into effective business solutions. Collaborating with stakeholders to assess Return on Investment for data-driven solutions, delivering actionable insights.</p>
+<p>Data Engineer with over 10 years of experience in interpreting and analyzing data to deliver effective business solutions. Hands-on experience in data modeling and in developing ETL/ELT data pipelines using Python (functional programming style) and SQL. Strong problem-solving skills with the ability to investigate root causes, test and implement solutions, and document preventive measures — contributing to cost reduction and revenue growth.</p>
 
 ## [Linkedln](https://www.linkedin.com/in/jayron-s-3929a0b2)<br>
 ### My blog posts <br>
