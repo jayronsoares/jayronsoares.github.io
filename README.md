@@ -55,8 +55,6 @@
 ### 4. Apps
 - [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
 - [Burnout Assement Tool(English)](https://burnouttoolforyou.streamlit.app)
-- [Burnout Assement Tool(Portuguese)](https://burnoutforyou.streamlit.app)
-- [Business Data Health Diagnostic](https://datadoctordiagnostic.streamlit.app/)
 - [GAYA ICU - Intensive Care Unit AI system (prototype)](https://gayaicu.streamlit.app/)
 - [Ursinho Game](https://www.ursinhodasorte.com.br/)
 
