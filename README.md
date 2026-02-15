@@ -58,6 +58,7 @@
 - [Burnout Assement Tool(Portuguese)](https://burnoutforyou.streamlit.app)
 - [Business Data Health Diagnostic](https://datadoctordiagnostic.streamlit.app/)
 - [GAYA ICU - Intensive Care Unit AI system (prototype)](https://gayaicu.streamlit.app/)
+- [Ursinho Game](https://www.ursinhodasorte.com.br/)
 
 ### Contact ###
 - email: jayronsoares@yandex.com
