@@ -49,14 +49,13 @@
 - [EDA - NYC Taxi Trip analysis](https://github.com/jayronsoares/taxi_trip_analysis/blob/main/analytics_engineer_case.ipynb)
 
 ### 3. Data visualization.
-- [Yaki In Box](https://www.yakinbox.com/)
 - [SEPLAG-RJ BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjM2U4ZjEtOGUwYS00NDZlLThkZmQtYjNiN2U0NDk1OTRjIiwidCI6ImRjYzllZTExLWQ1MTgtNDNmMS04YjNkLTEzYWE0NzBlMWNlZCJ9&pageName=ReportSection)
 
 ### 4. Apps
 - [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
 - [Burnout Assement Tool](https://burnouttoolforyou.streamlit.app)
 - [GAYA ICU - Intensive Care Unit AI system (prototype)](https://gayaicu.streamlit.app/)
-- [Ursinho Game](https://www.ursinhodasorte.com.br/)
+- [Yaki In Box](https://www.yakinbox.com/)
 
 ### Contact ###
 - email: jayronsoares@yandex.com
