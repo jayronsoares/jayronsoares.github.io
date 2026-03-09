@@ -1,6 +1,6 @@
 ## Portfolio
 ![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a8b0717c-cee1-4532-893f-0a67ab092d5e)
-<p>I am a Data Engineer with over 10 years of experience working with data to support practical business solutions. I have solid experience in data modeling and in building data pipelines using Python (functional programming style) and SQL. I enjoy solving problems by identifying root causes, testing and applying solutions, and maintaining clear documentation. My focus is on ensuring the return on investment (ROI) of data products by reducing costs, mitigating risks in data-driven decisions, and increasing revenue.</p>
+<p>Data Engineer with 10+ years shaping data into reliable business assets. I design data models and build pipelines using Python and SQL, guided by functional programming principles. My process is systematic: identify root causes, test solutions, document clearly. My objective is constant—data products that generate real value: lower costs, reduced decision risk, and sustainable revenue growth..</p>
 
 ## [Linkedln](https://www.linkedin.com/in/jayron-s-3929a0b2)<br>
 ### My blog posts <br>
