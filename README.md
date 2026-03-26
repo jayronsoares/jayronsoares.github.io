@@ -40,7 +40,6 @@
 - [Simple ETL pipeline(log, csv, xlsx)](https://github.com/jayronsoares/automated_data_engineering/blob/main/etl_pipe.py)
 - [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
 - [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
-- [Data quality checklist](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
 - [SQL Window Functions](https://github.com/jayronsoares/sql_window_functions_all/blob/main/wf_practice.md)
 - [SQL Logic Optimization](https://github.com/jayronsoares/optimizing_sql_logic)
 
