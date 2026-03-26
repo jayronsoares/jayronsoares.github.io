@@ -8,8 +8,6 @@
 
 ## 🛠️ Skills & Expertise
 
----
-
 ### ⚙️ Data Engineering & Pipelines
 - Idempotent ETL/ELT pipeline design
 - Data profiling, cleaning, and validation
