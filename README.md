@@ -55,7 +55,7 @@
 - [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
 - [Burnout Assement Tool](https://burnouttoolforyou.streamlit.app)
 - [GAYA ICU - Intensive Care Unit AI system (prototype)](https://gayaicu.streamlit.app/)
-- [Yaki In Box](https://www.yakinbox.com/)
+- [Ursinho Game](https://www.ursinhodasorte.com.br)
 
 ### Contact ###
 - email: jayronsoares@yandex.com
