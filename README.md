@@ -6,33 +6,59 @@
 ### My blog posts <br>
 - [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
-### Skills:
-1. Domain knowledge and problem-solving
-2. Data modeling techniques
-     - Relational
-     - Dimensional
-3. Database Administration and Query Optimization
-   <br/>
-5. SQL Language
-6. Python Language
-    - Functional Programming Principles
-8. Data integration
-    - Data Profiling and Cleaning
-    - Idempotent ETL/ELT pipelines
-    - Kimball Data Warehousing/BI methodology
-    <br/>
-9. Data governance and quality management
-    <br/>
-10. Cloud Computing:
-    - AWS Services (Redshift, RDS, IAM, S3 Bucket, and Glue)
-    - GCP - BigQuery
-    - Snowflake Data Warehouse
-      - Data model optimization,
-      - Data partitioning,
-      - Clustering, and compression techniques.
-     <br/>
-11. Data visualization & Data Storytelling 
-    - DAX Power BI
+## 🛠️ Skills & Expertise
+
+---
+
+### ⚙️ Data Engineering & Pipelines
+- Idempotent ETL/ELT pipeline design
+- Data profiling, cleaning, and validation
+- Kimball dimensional modeling — star & snowflake schemas
+- Batch and real-time processing patterns
+
+---
+
+### 🗄️ Data Modeling
+- Relational modeling — 3NF, normalization
+- Dimensional modeling — facts, dimensions, slowly changing dimensions (SCDs)
+- Data vault concepts
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+| Platform | Services |
+|----------|----------|
+| **AWS** | Glue, Redshift, S3, RDS, IAM |
+| **GCP** | BigQuery |
+| **Snowflake** | Partitioning, clustering, compression, model optimization |
+
+---
+
+### 💻 Languages & Query
+
+**Python**
+- PySpark — large-scale distributed data processing
+- pandas — data manipulation and profiling
+- boto3 — AWS service automation and pipeline orchestration
+
+**SQL**
+- Query optimization and execution plan analysis
+- Window functions and complex aggregations
+- Schema design and indexing strategies
+
+---
+
+### 🔒 Data Governance & Quality
+- Data quality frameworks and automated auditing
+- Metadata management
+- Access control and compliance
+
+---
+
+### 📊 Analytics & Visualization
+- Power BI — DAX, semantic modeling, report design
+- Data storytelling and executive dashboarding
     
 ## Work samples:
 
