@@ -19,7 +19,6 @@
 ### 🗄️ Data Modeling
 - Relational modeling — 3NF, normalization
 - Dimensional modeling — facts, dimensions, slowly changing dimensions (SCDs)
-- Data vault concepts
 
 ---
 
