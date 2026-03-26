@@ -41,8 +41,8 @@
 - [Python ETL with Snowflake](https://github.com/jayronsoares/snowflake_python/blob/main/snowflake_pandas.ipynb)
 - [Data ingestion with Airflow](https://github.com/jayronsoares/Airflow-Data-Ingestion)
 - [Data quality checklist](https://github.com/jayronsoares/healthcare_icu/blob/main/dqc.py)
-- [RestFul API Request Optimization](https://github.com/jayronsoares/healthcare_icu/blob/9fa8ffade315bee63d2d718691320fb4d54b368b/RestFul%20API%20Request%20Optimization%20-%20Cache%20%26%20Pagination.py)
-- [Optimizing SQL Logic](https://github.com/jayronsoares/optimizing_sql_logic)
+- [SQL Window Functions](https://github.com/jayronsoares/sql_window_functions_all/blob/main/wf_practice.md)
+- [SQL Logic Optimization](https://github.com/jayronsoares/optimizing_sql_logic)
 
 ### 2. Public data analysis.
 - [EDA - Customer Satisfaction Level analysis](https://github.com/jayronsoares/dados_publicos/blob/main/EDA.ipynb)
