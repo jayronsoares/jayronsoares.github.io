@@ -1,6 +1,6 @@
 ## Portfolio
 ![image](https://github.com/jayronsoares/jayronsoares.github.io/assets/248106/a8b0717c-cee1-4532-893f-0a67ab092d5e)
-<p>Data Engineer with 10+ years designing data models and building production pipelines in Python and SQL. I work across the full stack — from raw ingestion to dimensional modeling to cloud infrastructure on AWS, Snowflake, and BigQuery. My focus is on data products that hold up under real conditions: reliable, well-documented, and built to generate measurable business value.</p>
+<p>Data Engineer with 10+ years solving real business problems through data. I turn stakeholder pain points into production-ready pipelines and models —  built to run at 2am and trusted by analysts every day.</p>
 
 ## [Linkedln](https://www.linkedin.com/in/jayron-s-3929a0b2)<br>
 ### My blog posts <br>
