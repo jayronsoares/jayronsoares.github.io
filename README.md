@@ -6,9 +6,9 @@
 ### My blog posts <br>
 - [Data Engineering in a Nutshell](https://www.codementor.io/@jayronsoares/data-engineering-in-nutshell-1fh55lfo7r)
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
-### ⚙️ Data Engineering & Pipelines
+### Data Engineering & Pipelines
 - Idempotent ETL/ELT pipeline design
 - Data profiling, cleaning, and validation
 - Kimball dimensional modeling — star & snowflake schemas
@@ -16,13 +16,13 @@
 
 ---
 
-### 🗄️ Data Modeling
+### Data Modeling
 - Relational modeling — 3NF, normalization
 - Dimensional modeling — facts, dimensions, slowly changing dimensions (SCDs)
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 | Platform | Services |
 |----------|----------|
@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 Languages & Query
+### Languages & Query
 
 **Python**
 - PySpark — large-scale distributed data processing
@@ -46,14 +46,14 @@
 
 ---
 
-### 🔒 Data Governance & Quality
+### Data Governance & Quality
 - Data quality frameworks and automated auditing
 - Metadata management
 - Access control and compliance
 
 ---
 
-### 📊 Analytics & Visualization
+### Analytics & Visualization
 - Power BI — DAX, semantic modeling, report design
 - Data storytelling and executive dashboarding
     
