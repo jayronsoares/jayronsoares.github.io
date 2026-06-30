@@ -77,7 +77,6 @@
 - [Data Anonymization Tool](https://dataanonymizationforyou.streamlit.app/)
 - [Burnout Assement Tool](https://burnouttoolforyou.streamlit.app)
 - [GAYA ICU - Intensive Care Unit AI system (prototype)](https://gayaicu.streamlit.app/)
-- [Ursinho Game](https://www.ursinhodasorte.com.br)
 - [Drone Simulator](https://dronesym.com/)
 
 ### Contact ###
